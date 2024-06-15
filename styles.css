@@ -31,12 +31,13 @@ body {
 }
 
 .logo {
+  font-family: "Kaushan Script", cursive;
   height: 100px;
   margin-top: 160px;
   color: aliceblue;
   background-color: hwb(0 0% 100% / 0.377);
   text-align: center;
   padding: 20px;
-  font-size: 50px;
+  font-size: 64px;
   font-weight: 700;
 }
